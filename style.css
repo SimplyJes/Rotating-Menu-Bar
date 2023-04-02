@@ -51,7 +51,13 @@ body {
   border: none;
   color: #fff;
   font-size: 1.5rem;
-  cursor: pointer;
+/*   cursor: pointer; */
+}
+
+@media(max-width: 480px) {
+  .rotate button {
+    cursor: pointer;
+  }
 }
 
 .rotate button:focus {
