@@ -107,7 +107,9 @@ nav ul li + li + li {
 }
 
 .content img {
-  width: 60%;
+  width: auto;
+  max-width: 100%;
+  height: auto;
 }
 
 .content {
