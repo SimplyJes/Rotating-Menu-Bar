@@ -54,7 +54,7 @@ body {
 /*   cursor: pointer; */
 }
 
-@media(max-width: 480px) {
+@media(min-width: 480px) {
   .rotate button {
     cursor: pointer;
   }
