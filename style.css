@@ -117,7 +117,19 @@ nav ul li + li + li {
 }
 
 .content img {
-  width: 50%;
+/*   width: 50%; */
+}
+
+@media(max-width: 480px) {
+  .content img {
+    width: 100%;
+  }
+}
+
+@media(min-width: 481px) {
+  .content img {
+    width: 30%;
+  }
 }
 
 .content {
