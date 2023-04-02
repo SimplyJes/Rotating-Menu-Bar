@@ -107,7 +107,7 @@ nav ul li + li + li {
 }
 
 .content img {
-  width: 60%;
+  width: 100%;
 }
 
 .content {
@@ -135,5 +135,4 @@ footer {
   letter-spacing: 2px;
   font-weight: bold;
   background-color: azure;
-  position: fixed;
 }
