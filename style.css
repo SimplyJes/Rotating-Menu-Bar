@@ -54,6 +54,10 @@ body {
   cursor: pointer;
 }
 
+.rotate button:focus {
+  outline: none;
+}
+
 .rotate button#open {
   left: 60%;
 }
