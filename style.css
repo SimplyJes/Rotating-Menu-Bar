@@ -107,11 +107,11 @@ nav ul li + li + li {
 }
 
 .content img {
-  width: 50%;
+  width: 60%;
 }
 
 .content {
-  width: 80%;
+  width: 90%;
   margin: 50px auto;
 }
 
@@ -135,4 +135,5 @@ footer {
   letter-spacing: 2px;
   font-weight: bold;
   background-color: azure;
+  position: fixed;
 }
